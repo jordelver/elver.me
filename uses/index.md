@@ -1,6 +1,6 @@
 # uses
 
-\*_Last updated: 6th March 2022_\*
+\*_Last updated: 24th April 2022_\*
 
 I really enjoy reading about other people's setups. I read [uses this] for years
 (when it was called The Setup) and [ZSA Technology Labs] (makers of the ErgoDox
@@ -18,10 +18,9 @@ Here is mine.
   was in dire need of a new computer and Pro M1’s we’re not yet available. No
   regrets. I plan to upgrade to a Pro in time. 
 
-- _MONITOR_ -- 4K [ASUS PB279Q] -- I've been waiting for Apple to release a new
-  display for years. The best monitor I ever owned was the [Apple LED Cinema
-  Display], but after many years of service the resolution was really lacking,
-  so it had to be replaced with the ASUS.
+- _MONITOR_ -- [Apple Studio Display] with regular glass. Almost everything I've
+  been waiting for since 2016. Time to get rid of the disappointing [ASUS
+  PB279Q].
 
 - _KEYBOARD_ -- [Vortexgear Pok3r] keyboard (with [MiTo GMK Laser] custom
   keycaps). I generally like this keyboard, but I do occasionally knock the
@@ -164,3 +163,4 @@ Here is mine.
 [moonlight.nvim]: https://github.com/shaunsingh/moonlight.nvim
 [uses this]: https://usesthis.com
 [weeknotes.elver.me]: https://weeknotes.elver.me
+[Apple Studio Display]: https://www.apple.com/studio-display/
