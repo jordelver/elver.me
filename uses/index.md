@@ -1,6 +1,6 @@
 # uses
 
-\*_Last updated: 24th April 2022_\*
+\*_Last updated: 31st July 2022_\*
 
 I really enjoy reading about other people's setups. I read [uses this] for years
 (when it was called The Setup) and [ZSA Technology Labs] (makers of the ErgoDox
@@ -16,11 +16,11 @@ Here is mine.
 - _COMPUTER_ -- [Apple MacBook Air M1 16GB 1TB] - Great computer. Apple are
   finally back! I would never have considered an Air in years gone past but I
   was in dire need of a new computer and Pro M1’s we’re not yet available. No
-  regrets. I plan to upgrade to a Pro in time. 
+  regrets. I plan to upgrade to a Pro in time.
 
 - _MONITOR_ -- [Apple Studio Display] with regular glass. Almost everything I've
   been waiting for since 2016. Time to get rid of the disappointing [ASUS
-  PB279Q].
+  PB279Q]. The speakers very good, but it's true, the webcam is _not_ good.
 
 - _KEYBOARD_ -- [Vortexgear Pok3r] keyboard (with [MiTo GMK Laser] custom
   keycaps). I generally like this keyboard, but I do occasionally knock the
@@ -38,6 +38,7 @@ Here is mine.
 - _AUDIO INTERFACE_ -- I have a [Atom DAC] which plugs in via USB and a [Atom
   Amp] headphone amplifier. Very clean sound that took some adjustment at first.
   I now hear things in music that I never heard before, so I guess that's good.
+  I have to power-cycle it almost every day to make it work 🤷‍♂️.
 
 - _HUB/DOCK_ -- Everything is hooked together using a [OWC Thunderbolt Dock]
   (OWCTB4DOCK). Expensive, but works well and is reliable.
@@ -49,9 +50,9 @@ Here is mine.
 - _SPEAKERS_ -- [Audioengine A2] powered speakers. Not currently plugged in, for
   reasons.
 
-- [Apple iPhone 13] phone. I really like this phone. However, for some reason, in
-  the heat of the moment, I decided to go for Gold. No idea why, I’m a space
-  grey guy normally. I'll try not to do _that_ again.
+- _PHONE_ -- [Apple iPhone 13]. I really like this phone. However, for some
+  reason, in the heat of the moment, I decided to go for Gold. No idea why, I’m
+  a space grey guy normally. I'll try not to do _that_ again.
 
 - _WATCH_ -- [Apple Watch Series 7 GPS, 45mm Midnight Aluminium Case] with Dark
   Cherry Sport Band, for gym use, and Black/Pure Platinum Nike Sport Loop, for
@@ -63,10 +64,19 @@ Here is mine.
   [Apple Pencil]. I regularly forget I have it, but I like it a lot.
 
 - _NETWORKING_ -- I went all in on Ubiquiti a few years ago. The controller
-  software is really nice, and it has been solid for me. A Unifi [USG] brings
+  software is really nice, and it has been solid for me. A UniFi [USG] brings
   Internet in to the property, which is distributed via [US-8-60W] switch, and
   [UAP-AC-PRO] wifi access point. I also have a smaller [Switch Flex Mini] in my
   office connected using PoE.
+
+- _PERSONAL SERVER / NAS_ -- A custom built PC running [Ubuntu]. It's a Intel(R)
+  Core(TM) i3-8100 CPU @ 3.60GHz with 22TB of storage comprised of 6 Western
+  Digital 8TB Red disks in a 3-mirror layout managed by [ZFS]. I cannot
+  recommend ZFS enough -- I had to recover bad disk and the process was much
+  easier than when I ran Linux Software RAID.
+
+  It runs [Plex], and a few other services including the UniFi controller
+  software.
 
 ## Desk setup
 
@@ -120,6 +130,8 @@ Here is mine.
 - [jordanelver.co.uk] is built with [Middleman] and hosted on Amazon S3 with
   Cloudfront. I might move it to Netlify.
 
+*affiliate link
+
 ["people" page]: https://people.zsa.io
 [ASUS PB279Q]: https://www.asus.com/Commercial-Monitors/PB279Q/
 [Apple LED Cinema Display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display#LED_Cinema_Display
@@ -164,3 +176,6 @@ Here is mine.
 [uses this]: https://usesthis.com
 [weeknotes.elver.me]: https://weeknotes.elver.me
 [Apple Studio Display]: https://www.apple.com/studio-display/
+[Ubuntu]: https://ubuntu.com
+[ZFS]: https://en.wikipedia.org/wiki/ZFS
+[Plex]: https://www.plex.tv
