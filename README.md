@@ -18,4 +18,4 @@ View at http://localhost:8080/index.md
 
     gm --html uses/template.html uses/index.md
 
-Commit `index.html` to the `main` branch and push to deploy.
+Commit `index.md` and `index.html` to the `main` branch and push to deploy.

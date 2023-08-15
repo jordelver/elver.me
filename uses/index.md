@@ -1,6 +1,6 @@
 # uses
 
-\*_Last updated: 31st July 2022_\*
+\*_Last updated: 15th August 2023_\*
 
 I really enjoy reading about other people's setups. I read [uses this] for years
 (when it was called The Setup) and [ZSA Technology Labs] (makers of the ErgoDox
@@ -16,7 +16,8 @@ Here is mine.
 - _COMPUTER_ -- [Apple MacBook Air M1 16GB 1TB] - Great computer. Apple are
   finally back! I would never have considered an Air in years gone past but I
   was in dire need of a new computer and Pro M1’s we’re not yet available. No
-  regrets. I plan to upgrade to a Pro in time.
+  regrets. ~~I plan to upgrade to a Pro in time.~~ Not sure about this statement
+  any more, the latest 15" Air is tempting.
 
 - _MONITOR_ -- [Apple Studio Display] with regular glass. Almost everything I've
   been waiting for since 2016. Time to get rid of the disappointing [ASUS
@@ -50,9 +51,10 @@ Here is mine.
 - _SPEAKERS_ -- [Audioengine A2] powered speakers. Not currently plugged in, for
   reasons.
 
-- _PHONE_ -- [Apple iPhone 13]. I really like this phone. However, for some
-  reason, in the heat of the moment, I decided to go for Gold. No idea why, I’m
-  a space grey guy normally. I'll try not to do _that_ again.
+- _PHONE_ -- [Apple iPhone 14 Pro]. Same old - USB-C where art thou? ~~However,
+  for some reason, in the heat of the moment, I decided to go for Gold. No idea
+  why, I’m a space grey guy normally. I'll try not to do _that_ again.~~ Reader,
+  I went with Deep Purple for this one.
 
 - _WATCH_ -- [Apple Watch Series 7 GPS, 45mm Midnight Aluminium Case] with Dark
   Cherry Sport Band, for gym use, and Black/Pure Platinum Nike Sport Loop, for
@@ -60,8 +62,8 @@ Here is mine.
 
   Over-engineered notification delivery system.
 
-- _TABLET_ -- [Apple iPad mini Wi‑Fi 64GB] in Starlight with the 2nd generation
-  [Apple Pencil]. I regularly forget I have it, but I like it a lot.
+- _TABLET_ -- [Apple iPad Pro 11-inch (4th generation)] with the 2nd generation
+  [Apple Pencil]. Mainly for watching TV in bed.
 
 - _NETWORKING_ -- I went all in on Ubiquiti a few years ago. The controller
   software is really nice, and it has been solid for me. A UniFi [USG] brings
@@ -107,12 +109,12 @@ Here is mine.
   works, and it has a lot less unix baggage than other shells.
 
 - My [Dotfiles] are available on GitHub should you be interested in seeing a
-  mess of barely understood Vimscript.
+  mess of barely understood Lua and Vimscript.
 
 ## Web hosting / email
 
 - My various email accounts are handled by [Fastmail]* after years of Google
-  Mail. I'm glad to me free of Google for email.
+  Mail. I'm glad to be free of Google for email.
 
 - Saying that, I still use them for my calendaring needs -- _at the moment_ 🤦‍♂️
 
@@ -138,8 +140,8 @@ Here is mine.
 [Apple MacBook Air M1 16GB 1TB]: https://www.apple.com/uk/macbook-air/
 [Apple Pencil]: https://www.apple.com/apple-pencil/
 [Apple Watch Series 7 GPS, 45mm Midnight Aluminium Case]: https://www.apple.com/uk/apple-watch-series-7/
-[Apple iPad mini Wi‑Fi 64GB]: https://www.apple.com/ipad-mini/
-[Apple iPhone 13]: https://www.apple.com/uk/iphone-13/
+[Apple iPad Pro 11-inch (4th generation)]: https://www.apple.com/uk/ipad-pro/
+[Apple iPhone 14 Pro]: https://www.apple.com/iphone-14-pro/
 [Atom Amp]: https://jdslabs.com/product/atom-amp/
 [Atom DAC]: https://jdslabs.com/product/atom-dac-plus/
 [AudioEngine A2]: https://audioengineusa.com/shop/wirelessspeakers/a2-wireless-computer-speakers/
