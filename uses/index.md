@@ -1,6 +1,6 @@
 # uses
 
-\*_Last updated: 15th August 2023_\*
+\*_Last updated: 22nd November 2023_\*
 
 I really enjoy reading about other people's setups. I read [uses this] for years
 (when it was called The Setup) and [ZSA Technology Labs] (makers of the ErgoDox
@@ -23,7 +23,7 @@ Here is mine.
   been waiting for since 2016. Time to get rid of the disappointing [ASUS
   PB279Q]. The speakers very good, but it's true, the webcam is _not_ good.
 
-- _KEYBOARD_ -- [Vortexgear Pok3r] keyboard (with [MiTo GMK Laser] custom
+- _KEYBOARD_ -- [Vortexgear Pok3r] keyboard (with [GMK Dracula] custom
   keycaps). I generally like this keyboard, but I do occasionally knock the
   keyboard into programming mode and can't remember how to get it out again.
   CAPSLOCK is mapped to CONTROL.
@@ -46,15 +46,17 @@ Here is mine.
 
 - _HEADPHONES_ -- [Shure SE425] IEMs with [SnugsPro] custom ear moulds. I've
   been a big fan of Shure headphones for years having owned 5 or 6 different
-  models over the years (they tend to break, but I don't like anything else).
+  models over the years (they tend to break).
+
+  I also have a pair of [Apple AirPod Pros] (USB-C version) which I bought for
+  their noise cancelling abilities, but they are rapidly taking over as my main
+  headphones because they just _so_ convenient.
 
 - _SPEAKERS_ -- [Audioengine A2] powered speakers. Not currently plugged in, for
   reasons.
 
-- _PHONE_ -- [Apple iPhone 14 Pro]. Same old - USB-C where art thou? ~~However,
-  for some reason, in the heat of the moment, I decided to go for Gold. No idea
-  why, I’m a space grey guy normally. I'll try not to do _that_ again.~~ Reader,
-  I went with Deep Purple for this one.
+- _PHONE_ -- [Apple iPhone 15 Pro]. ~~USB-C where art thou?~~ USB-C! Ensconced
+  in a [Bellroy case].
 
 - _WATCH_ -- [Apple Watch Series 7 GPS, 45mm Midnight Aluminium Case] with Dark
   Cherry Sport Band, for gym use, and Black/Pure Platinum Nike Sport Loop, for
@@ -68,8 +70,7 @@ Here is mine.
 - _NETWORKING_ -- I went all in on Ubiquiti a few years ago. The controller
   software is really nice, and it has been solid for me. A UniFi [USG] brings
   Internet in to the property, which is distributed via [US-8-60W] switch, and
-  [UAP-AC-PRO] wifi access point. I also have a smaller [Switch Flex Mini] in my
-  office connected using PoE.
+  [UAP-AC-PRO] wifi access point.
 
 - _PERSONAL SERVER / NAS_ -- A custom built PC running [Ubuntu]. It's a Intel(R)
   Core(TM) i3-8100 CPU @ 3.60GHz with 22TB of storage comprised of 6 Western
@@ -86,9 +87,8 @@ Here is mine.
   sound a bit creaky. I would like to replace it with something that has
   settings so I can start/stop it at the correct height quickly.
 
-- Steelcase Leap V1 Chair - bought second-hand, and in need of replacement. [I've
-  attempted to replace this chair and failed]. Trying chairs before buying is
-  strangely difficult.
+- [Steelcase Gesture Chair] -- a brand new purchase which was really needed.
+  Replaced my previous Steelcase Leap V1, which I bought second-hand.
 
 - [Fully Jarvis Dual Monitor arm] with laptop tray - this is new-ish, and allows
   me to position the laptop in relation to my main screen. I used a [Rain Design
@@ -141,7 +141,8 @@ Here is mine.
 [Apple Pencil]: https://www.apple.com/apple-pencil/
 [Apple Watch Series 7 GPS, 45mm Midnight Aluminium Case]: https://www.apple.com/uk/apple-watch-series-7/
 [Apple iPad Pro 11-inch (4th generation)]: https://www.apple.com/uk/ipad-pro/
-[Apple iPhone 14 Pro]: https://www.apple.com/iphone-14-pro/
+[Apple iPhone 15 Pro]: https://www.apple.com/iphone-15-pro/
+[Bellroy case]: https://bellroy.com/products/phone-case?color=cobalt&material=leather&size=i15pro
 [Atom Amp]: https://jdslabs.com/product/atom-amp/
 [Atom DAC]: https://jdslabs.com/product/atom-dac-plus/
 [AudioEngine A2]: https://audioengineusa.com/shop/wirelessspeakers/a2-wireless-computer-speakers/
@@ -151,12 +152,10 @@ Here is mine.
 [Fish]: https://fishshell.com
 [Fully Jarvis Dual Monitor arm]: https://www.fully.com/accessories/monitor-arms/jarvis-dual-monitor-arm.html
 [GitHub Pages]: https://pages.github.com
-[I've attempted to replace this chair and failed]: https://weeknotes.elver.me/weeknotes-3/
 [IKEA Bekant]: https://www.ikea.com/gb/en/p/bekant-desk-sit-stand-white-stained-oak-veneer-white-s19282085/
 [JetBrains Mono]: https://www.jetbrains.com/lp/mono/
 [Logitech C920 HD Pro]: https://www.logitech.com/en-gb/products/webcams/c920-pro-hd-webcam.960-001055.html
 [Magic Trackpad 2]: https://en.wikipedia.org/wiki/Magic_Trackpad_2
-[MiTo GMK Laser]: https://drop.com/buy/drop-mito-gmk-laser-custom-keycap-set
 [Middleman]: https://middlemanapp.com
 [Neovim]: https://neovim.io
 [Netlify]: https://www.netlify.com
@@ -164,7 +163,6 @@ Here is mine.
 [Rain Design mStand]: https://www.raindesigninc.com/mstand.html
 [Shure SE425]: https://www.shure.com/en-GB/products/earphones/se425cl
 [SnugsPro]: https://snugs.com/product/snugspro-iems/
-[Switch Flex Mini]: https://eu.store.ui.com/collections/unifi-network-routing-switching/products/usw-flex-mini
 [UAP-AC-PRO]: https://eu.store.ui.com/collections/unifi-network-wireless/products/unifi-ac-pro
 [US-8-60W]: https://store.ui.com/collections/unifi-network-switching/products/unifi-switch-8-60w
 [USG]: https://store.ui.com/products/unifi-security-gateway
@@ -181,3 +179,6 @@ Here is mine.
 [Ubuntu]: https://ubuntu.com
 [ZFS]: https://en.wikipedia.org/wiki/ZFS
 [Plex]: https://www.plex.tv
+[Apple AirPod Pros]: https://www.apple.com/uk/airpods-pro/specs/
+[Steelcase Gesture Chair]: https://www.steelcase.com/products/office-chairs/gesture/
+[GMK Dracula]: https://geekhack.org/index.php?topic=115268.0
