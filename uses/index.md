@@ -1,6 +1,6 @@
 # uses
 
-\*_Last updated: 22nd November 2023_\*
+\*_Last updated: 15th December 2023_\*
 
 I really enjoy reading about other people's setups. I read [uses this] for years
 (when it was called The Setup) and [ZSA Technology Labs] (makers of the ErgoDox
@@ -21,7 +21,7 @@ Here is mine.
 
 - _MONITOR_ -- [Apple Studio Display] with regular glass. Almost everything I've
   been waiting for since 2016. Time to get rid of the disappointing [ASUS
-  PB279Q]. The speakers very good, but it's true, the webcam is _not_ good.
+  PB279Q]. The speakers are very good, but it's true, the webcam is _not_.
 
 - _KEYBOARD_ -- [Vortexgear Pok3r] keyboard (with [GMK Dracula] custom
   keycaps). I generally like this keyboard, but I do occasionally knock the
@@ -73,10 +73,10 @@ Here is mine.
   [UAP-AC-PRO] wifi access point.
 
 - _PERSONAL SERVER / NAS_ -- A custom built PC running [Ubuntu]. It's a Intel(R)
-  Core(TM) i3-8100 CPU @ 3.60GHz with 22TB of storage comprised of 6 Western
-  Digital 8TB Red disks in a 3-mirror layout managed by [ZFS]. I cannot
-  recommend ZFS enough -- I had to recover bad disk and the process was much
-  easier than when I ran Linux Software RAID.
+  Core(TM) i3-8100 CPU @ 3.60GHz with 48TB of storage comprised of 6 Western
+  Digital 18TB Red disks in a 3-mirror layout managed by [ZFS]. I cannot
+  recommend ZFS enough -- I've recovered and replaced all disks and it was very
+  straightforward.
 
   It runs [Plex], and a few other services including the UniFi controller
   software.
