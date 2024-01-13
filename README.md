@@ -6,16 +6,22 @@ Hosted on GitHub pages. DNS by DNSimple.
 
 ## Uses page
 
-Built using https://github.com/kpym/gm
+Markdown is built using https://github.com/kpym/gm
 
-### View the page locally using
+### Changes
+
+- View locally
 
     gm --serve uses/index.md --html uses/template.html
 
-View at http://localhost:8080/index.md
+  View at http://localhost:8080/index.md
 
-### Build the final output using
+- Make your change
 
-    gm --html uses/template.html uses/index.md
+- Update the CHANGELOG (uses/CHANGELOG.md)
 
-Commit `index.md` and `index.html` to the `main` branch and push to deploy.
+- Build the final output
+
+    bin/build
+
+- Commit `index.md` and `index.html` to the `main` branch and push to deploy.

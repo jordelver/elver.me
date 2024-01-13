@@ -1,0 +1,65 @@
+#!/usr/bin/env ruby
+require "bundler/inline"
+
+gemfile do
+  source "https://rubygems.org"
+  gem "rss"
+  gem "kramdown"
+end
+
+require "digest/md5"
+
+# Stolen and re-worked from https://github.com/tech-angels/vandamme/
+class ChangelogParser
+  def self.parse(changelog:)
+    new(changelog: changelog).parse
+  end
+
+  REGEXP = '^#{0,3} ?([\w\d\.-]+\.[\w\d\.-]+[a-zA-Z0-9])(?: \/ (\w+ \d{1,2}(?:st|nd|rd|th)?,\s\d{4}|\d{4}-\d{2}-\d{2}|\w+))?\n?[=-]*'
+  VERSION_HEADER_EXP = Regexp.new(/#{REGEXP}/)
+
+  def initialize(changelog:)
+    @changelog = changelog
+  end
+
+  def parse
+    parsed_changelog = []
+
+    @changelog.scan(VERSION_HEADER_EXP) do |(version, date)|
+      version_content = $~.post_match
+      changelog_scanner = StringScanner.new(version_content)
+      changelog_scanner.scan_until(VERSION_HEADER_EXP)
+
+      parsed_changelog << {
+        version: version,
+        date: date,
+        changes: (changelog_scanner.pre_match || version_content).gsub(/(\A\n+|\n+\z)/, '')
+      }
+    end
+
+    parsed_changelog
+  end
+end
+
+changelog = File.read("uses/CHANGELOG.md")
+changelog_entries = ChangelogParser.parse(changelog: changelog)
+
+rss = RSS::Maker.make("atom") do |maker|
+  maker.channel.author = "Jordan Elver"
+  maker.channel.updated = Time.now.to_s
+  maker.channel.about = "https://elver.me/uses/changelog.rss"
+  maker.channel.title = "elver.me /uses changelog"
+
+  changelog_entries.each do |entry|
+    maker.items.new_item do |item|
+      id = Digest::MD5.hexdigest("#{entry[:version]}/#{entry[:date]}")
+      item.id = "urn:tag:#{id}"
+      item.link = "https://elver.me/uses/"
+      item.title = "#{entry[:version]} / #{entry[:date]}"
+      item.description = Kramdown::Document.new(entry[:changes]).to_html
+      item.updated = entry[:date]
+    end
+  end
+end
+
+puts rss

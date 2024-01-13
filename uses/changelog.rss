@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <author>
+    <name>Jordan Elver</name>
+  </author>
+  <id>https://elver.me/uses/changelog.rss</id>
+  <title>elver.me /uses changelog</title>
+  <updated>2024-01-13T23:02:25+00:00</updated>
+  <entry>
+    <id>urn:tag:87b9a3f02c42e32c4662331d7c5855cb</id>
+    <link href="https://elver.me/uses/"/>
+    <summary>&lt;ul&gt;
+  &lt;li&gt;Upgraded the disks in my server to 18TB&lt;/li&gt;
+&lt;/ul&gt;
+</summary>
+    <title>0.6.0 / 2023-12-15</title>
+    <updated>2023-12-15T00:00:00+00:00</updated>
+    <dc:date>2023-12-15T00:00:00+00:00</dc:date>
+  </entry>
+  <entry>
+    <id>urn:tag:8f51d41a2f6226aea69701c0f63058c6</id>
+    <link href="https://elver.me/uses/"/>
+    <summary>&lt;ul&gt;
+  &lt;li&gt;Retired the UniFi Switch Flex Mini&lt;/li&gt;
+  &lt;li&gt;Upgraded my phone again to a Apple iPhone 15 Pro&lt;/li&gt;
+  &lt;li&gt;New GMK Dracula keycaps after 2 years of waiting&lt;/li&gt;
+&lt;/ul&gt;
+</summary>
+    <title>0.5.0 / 2023-11-22</title>
+    <updated>2023-11-22T00:00:00+00:00</updated>
+    <dc:date>2023-11-22T00:00:00+00:00</dc:date>
+  </entry>
+  <entry>
+    <id>urn:tag:66a5ba9c60c95a9a7dcf41042f1bd372</id>
+    <link href="https://elver.me/uses/"/>
+    <summary>&lt;ul&gt;
+  &lt;li&gt;Added Apple iPhone 14 Pro&lt;/li&gt;
+  &lt;li&gt;Apple iPad Pro 11-inch (4th generation)&lt;/li&gt;
+&lt;/ul&gt;
+</summary>
+    <title>0.4.0 / 2023-08-15</title>
+    <updated>2023-08-15T00:00:00+01:00</updated>
+    <dc:date>2023-08-15T00:00:00+01:00</dc:date>
+  </entry>
+  <entry>
+    <id>urn:tag:cc75e2244b4e4122e3a81a6e38828f3d</id>
+    <link href="https://elver.me/uses/"/>
+    <summary>&lt;ul&gt;
+  &lt;li&gt;Added section detailing my personal home server&lt;/li&gt;
+&lt;/ul&gt;
+</summary>
+    <title>0.3.0 / 2022-07-31</title>
+    <updated>2022-07-31T00:00:00+01:00</updated>
+    <dc:date>2022-07-31T00:00:00+01:00</dc:date>
+  </entry>
+  <entry>
+    <id>urn:tag:1ae35d365c956ce33cb3702caf62d4b2</id>
+    <link href="https://elver.me/uses/"/>
+    <summary>&lt;ul&gt;
+  &lt;li&gt;Bought an Apple Studio Display to replace the Asus&lt;/li&gt;
+&lt;/ul&gt;
+</summary>
+    <title>0.2.0 / 2022-04-24</title>
+    <updated>2022-04-24T00:00:00+01:00</updated>
+    <dc:date>2022-04-24T00:00:00+01:00</dc:date>
+  </entry>
+  <entry>
+    <id>urn:tag:f79a12a7b0c5b77369a784882c51ed51</id>
+    <link href="https://elver.me/uses/"/>
+    <summary>&lt;ul&gt;
+  &lt;li&gt;Added a /uses page&lt;/li&gt;
+&lt;/ul&gt;
+</summary>
+    <title>0.1.0 / 2022-03-06</title>
+    <updated>2022-03-06T00:00:00+00:00</updated>
+    <dc:date>2022-03-06T00:00:00+00:00</dc:date>
+  </entry>
+  <dc:date>2024-01-13T23:02:25+00:00</dc:date>
+</feed>
