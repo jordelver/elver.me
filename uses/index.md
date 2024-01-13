@@ -1,6 +1,7 @@
 # uses
 
 \*_Last updated: 15th December 2023_\*
+[[changelog rss](https://elver.me/uses/changelog.rss)]
 
 I really enjoy reading about other people's setups. I read [uses this] for years
 (when it was called The Setup) and [ZSA Technology Labs] (makers of the ErgoDox
