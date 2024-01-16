@@ -69,9 +69,9 @@ Here is mine.
   [Apple Pencil]. Mainly for watching TV in bed.
 
 - _NETWORKING_ -- I went all in on Ubiquiti a few years ago. The controller
-  software is really nice, and it has been solid for me. A UniFi [USG] brings
-  Internet in to the property, which is distributed via [US-8-60W] switch, and
-  [UAP-AC-PRO] wifi access point.
+  software is really nice, and it has been solid for me. A UniFi [USG] (pdf)
+  brings Internet in to the property, which is distributed via [US-8-60W]
+  switch, and [UAP-AC-PRO] wifi access point.
 
 - _PERSONAL SERVER / NAS_ -- A custom built PC running [Ubuntu]. It's a Intel(R)
   Core(TM) i3-8100 CPU @ 3.60GHz with 48TB of storage comprised of 6 Western
@@ -166,7 +166,7 @@ Here is mine.
 [SnugsPro]: https://snugs.com/product/snugspro-iems/
 [UAP-AC-PRO]: https://eu.store.ui.com/collections/unifi-network-wireless/products/unifi-ac-pro
 [US-8-60W]: https://store.ui.com/collections/unifi-network-switching/products/unifi-switch-8-60w
-[USG]: https://store.ui.com/products/unifi-security-gateway
+[USG]: https://dl.ubnt.com/datasheets/unifi/UniFi_Security_Gateway_DS.pdf
 [Vortexgear Pok3r]: http://www.vortexgear.tw/vortex2_2.asp?kind=47&kind2=220&kind3=&kind4=1006
 [Wes Bos]: https://wesbos.com/uses
 [ZSA Technology Labs]: https://zsa.io
