@@ -1,6 +1,6 @@
 # uses
 
-\*_Last updated: 15th December 2023_\*
+\*_Last updated: 1st December 2024_\*
 [[changelog rss](https://elver.me/uses/changelog.rss)]
 
 I really enjoy reading about other people's setups. I read [uses this] for years
@@ -123,6 +123,8 @@ Here is mine.
   good deal years ago which has kept me with them. Inertia is keeping me there
   for now, despite price increases.
 
+- [Porkbun] for domain registration. 90s-stylee, but seems good.
+
 - This webpage is hosted on [GitHub Pages] -- a very good setup for me.
 
 - [weeknotes.elver.me] is built with Hugo and hosted on [Netlify], the first
@@ -183,3 +185,4 @@ Here is mine.
 [Apple AirPod Pros]: https://www.apple.com/uk/airpods-pro/specs/
 [Steelcase Gesture Chair]: https://www.steelcase.com/products/office-chairs/gesture/
 [GMK Dracula]: https://geekhack.org/index.php?topic=115268.0
+[Porkbun]: https://porkbun.com/

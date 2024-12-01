@@ -1,5 +1,9 @@
 # Changelog
 
+# 0.7.0 / 2024-12-01
+
+- Add Porkbun as my domain registrar
+
 # 0.6.0 / 2023-12-15
 
 - Upgraded the disks in my server to 18TB

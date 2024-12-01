@@ -6,7 +6,18 @@
   </author>
   <id>https://elver.me/uses/changelog.rss</id>
   <title>elver.me /uses changelog</title>
-  <updated>2024-01-13T23:02:25+00:00</updated>
+  <updated>2024-12-01T16:16:16+00:00</updated>
+  <entry>
+    <id>urn:tag:aaeb34480d108d760a8445d8bd588848</id>
+    <link href="https://elver.me/uses/"/>
+    <summary>&lt;ul&gt;
+  &lt;li&gt;Add Porkbun as my domain registrar&lt;/li&gt;
+&lt;/ul&gt;
+</summary>
+    <title>0.7.0 / 2024-12-01</title>
+    <updated>2024-12-01T00:00:00+00:00</updated>
+    <dc:date>2024-12-01T00:00:00+00:00</dc:date>
+  </entry>
   <entry>
     <id>urn:tag:87b9a3f02c42e32c4662331d7c5855cb</id>
     <link href="https://elver.me/uses/"/>
@@ -76,5 +87,5 @@
     <updated>2022-03-06T00:00:00+00:00</updated>
     <dc:date>2022-03-06T00:00:00+00:00</dc:date>
   </entry>
-  <dc:date>2024-01-13T23:02:25+00:00</dc:date>
+  <dc:date>2024-12-01T16:16:16+00:00</dc:date>
 </feed>
