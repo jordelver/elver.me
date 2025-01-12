@@ -1,6 +1,6 @@
 # uses
 
-\*_Last updated: 1st December 2024_\*
+\*_Last updated: 12th January 2025_\*
 [[changelog rss](https://elver.me/uses/changelog.rss)]
 
 I really enjoy reading about other people's setups. I read [uses this] for years
@@ -45,13 +45,13 @@ Here is mine.
 - _HUB/DOCK_ -- Everything is hooked together using a [OWC Thunderbolt Dock]
   (OWCTB4DOCK). Expensive, but works well and is reliable.
 
-- _HEADPHONES_ -- [Shure SE425] IEMs with [SnugsPro] custom ear moulds. I've
-  been a big fan of Shure headphones for years having owned 5 or 6 different
-  models over the years (they tend to break).
+- _HEADPHONES_ -- A pair of [Apple AirPod Pros] (USB-C version) which I bought
+  for their noise cancelling abilities, but they have taken over completely
+  because they just _so_ convenient despite their software quirks.
 
-  I also have a pair of [Apple AirPod Pros] (USB-C version) which I bought for
-  their noise cancelling abilities, but they are rapidly taking over as my main
-  headphones because they just _so_ convenient.
+  I also have a pair [Shure SE425] IEMs with [SnugsPro] custom ear moulds. I've
+  been a big fan of Shure headphones for years having owned 5 or 6 different
+  models (they tend to break), but they sit in a drawer now.
 
 - _SPEAKERS_ -- [Audioengine A2] powered speakers. Not currently plugged in, for
   reasons.
@@ -59,9 +59,8 @@ Here is mine.
 - _PHONE_ -- [Apple iPhone 15 Pro]. ~~USB-C where art thou?~~ USB-C! Ensconced
   in a [Bellroy case].
 
-- _WATCH_ -- [Apple Watch Series 7 GPS, 45mm Midnight Aluminium Case] with Dark
-  Cherry Sport Band, for gym use, and Black/Pure Platinum Nike Sport Loop, for
-  general use.
+- _WATCH_ -- [Apple Watch Ultra 2] GPS + Cellular 49mm Black Titanium Case with
+  Black Trail Loop.
 
   Over-engineered notification delivery system.
 
@@ -79,8 +78,12 @@ Here is mine.
   recommend ZFS enough -- I've recovered and replaced all disks and it was very
   straightforward.
 
-  It runs [Plex], and a few other services including the UniFi controller
-  software.
+  It runs [Plex], and a few other services. 
+
+- _NETWORK APPLIANCE_ -- For running the [UniFi controller software]. A
+  super-slim [Lenovo ThinkCentre M900 Desktop PC] with Intel(R) Core(TM)
+  i5-6500T CPU running @ 2.5GHz. 8GB RAM and 256GB SSD. Mounted inside a
+  cupboard using a [VESA adaptor].
 
 ## Desk setup
 
@@ -142,7 +145,7 @@ Here is mine.
 [Apple LED Cinema Display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display#LED_Cinema_Display
 [Apple MacBook Air M1 16GB 1TB]: https://www.apple.com/uk/macbook-air/
 [Apple Pencil]: https://www.apple.com/apple-pencil/
-[Apple Watch Series 7 GPS, 45mm Midnight Aluminium Case]: https://www.apple.com/uk/apple-watch-series-7/
+[Apple Watch Ultra 2]: https://www.apple.com/uk/apple-watch-ultra-2/
 [Apple iPad Pro 11-inch (4th generation)]: https://www.apple.com/uk/ipad-pro/
 [Apple iPhone 15 Pro]: https://www.apple.com/iphone-15-pro/
 [Bellroy case]: https://bellroy.com/products/phone-case?color=cobalt&material=leather&size=i15pro
@@ -186,3 +189,6 @@ Here is mine.
 [Steelcase Gesture Chair]: https://www.steelcase.com/products/office-chairs/gesture/
 [GMK Dracula]: https://geekhack.org/index.php?topic=115268.0
 [Porkbun]: https://porkbun.com/
+[UniFi controller software]: https://ui.com/download
+[Lenovo ThinkCentre M900 Desktop PC]: https://www.lenovo.com/gb/en/p/desktops/thinkcentre/m-series-tiny/m900-tiny/11tc1mtm900
+[VESA adaptor]: https://www.lenovo.com/gb/en/p/accessories-and-software/tiny-accessories/tiny-brackets/4xf0n03161

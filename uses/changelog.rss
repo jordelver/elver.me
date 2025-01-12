@@ -6,7 +6,20 @@
   </author>
   <id>https://elver.me/uses/changelog.rss</id>
   <title>elver.me /uses changelog</title>
-  <updated>2024-12-01T16:16:16+00:00</updated>
+  <updated>2025-01-12T16:23:42+00:00</updated>
+  <entry>
+    <id>urn:tag:a60a923f9d9dcfb116f6792c5caffcdf</id>
+    <link href="https://elver.me/uses/"/>
+    <summary>&lt;ul&gt;
+  &lt;li&gt;Add Apple Watch Ultra 2. Merry Christmas to me.&lt;/li&gt;
+  &lt;li&gt;Add Lenovo PC for running UniFi software&lt;/li&gt;
+  &lt;li&gt;Clarify that I don’t use the Shure headphones much anymore :(&lt;/li&gt;
+&lt;/ul&gt;
+</summary>
+    <title>0.8.0 / 2025-01-12</title>
+    <updated>2025-01-12T00:00:00+00:00</updated>
+    <dc:date>2025-01-12T00:00:00+00:00</dc:date>
+  </entry>
   <entry>
     <id>urn:tag:aaeb34480d108d760a8445d8bd588848</id>
     <link href="https://elver.me/uses/"/>
@@ -87,5 +100,5 @@
     <updated>2022-03-06T00:00:00+00:00</updated>
     <dc:date>2022-03-06T00:00:00+00:00</dc:date>
   </entry>
-  <dc:date>2024-12-01T16:16:16+00:00</dc:date>
+  <dc:date>2025-01-12T16:23:42+00:00</dc:date>
 </feed>

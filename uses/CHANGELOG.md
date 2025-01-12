@@ -1,5 +1,11 @@
 # Changelog
 
+# 0.8.0 / 2025-01-12
+
+- Add Apple Watch Ultra 2. Merry Christmas to me.
+- Add Lenovo PC for running UniFi software
+- Clarify that I don't use the Shure headphones much anymore :(
+
 # 0.7.0 / 2024-12-01
 
 - Add Porkbun as my domain registrar
