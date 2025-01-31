@@ -14,11 +14,8 @@ Here is mine.
 
 ## Hardware
 
-- _COMPUTER_ -- [Apple MacBook Air M1 16GB 1TB] - Great computer. Apple are
-  finally back! I would never have considered an Air in years gone past but I
-  was in dire need of a new computer and Pro M1’s we’re not yet available. No
-  regrets. ~~I plan to upgrade to a Pro in time.~~ Not sure about this statement
-  any more, the latest 15" Air is tempting.
+- _COMPUTER_ -- [Apple MacBook Pro M4 14"] with 48GB memory and 2TB disk in
+  Space Black.
 
 - _MONITOR_ -- [Apple Studio Display] with regular glass. Almost everything I've
   been waiting for since 2016. Time to get rid of the disappointing [ASUS
@@ -29,8 +26,8 @@ Here is mine.
   keyboard into programming mode and can't remember how to get it out again.
   CAPSLOCK is mapped to CONTROL.
 
-- _MOUSE_ -- [Magic Trackpad 2] in Space Grey. I like using gestures when in
-  "desktop mode".
+- _MOUSE_ -- [Magic Trackpad 2] in Black. I like using gestures when in "desktop
+  mode".
 
 - _WEBCAM_ -- The [Logitech C920 HD Pro] has been very solid for me since 2017.
   I occasionally wonder whether it's time to upgrade to something with a
@@ -143,7 +140,7 @@ Here is mine.
 ["people" page]: https://people.zsa.io
 [ASUS PB279Q]: https://www.asus.com/Commercial-Monitors/PB279Q/
 [Apple LED Cinema Display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display#LED_Cinema_Display
-[Apple MacBook Air M1 16GB 1TB]: https://www.apple.com/uk/macbook-air/
+[Apple MacBook Pro M4 14"]: https://www.apple.com/uk/macbook-pro/
 [Apple Pencil]: https://www.apple.com/apple-pencil/
 [Apple Watch Ultra 2]: https://www.apple.com/uk/apple-watch-ultra-2/
 [Apple iPad Pro 11-inch (4th generation)]: https://www.apple.com/uk/ipad-pro/

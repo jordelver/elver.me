@@ -6,7 +6,19 @@
   </author>
   <id>https://elver.me/uses/changelog.rss</id>
   <title>elver.me /uses changelog</title>
-  <updated>2025-01-12T16:23:42+00:00</updated>
+  <updated>2025-01-31T21:30:47+00:00</updated>
+  <entry>
+    <id>urn:tag:00a426c81c3cf5f9f2b6fd97fd715fa0</id>
+    <link href="https://elver.me/uses/"/>
+    <summary>&lt;ul&gt;
+  &lt;li&gt;Upgraded to MacBook Pro M4 14”&lt;/li&gt;
+  &lt;li&gt;Upgrade Magic TrackPad to Black colour version&lt;/li&gt;
+&lt;/ul&gt;
+</summary>
+    <title>0.9.0 / 2025-01-31</title>
+    <updated>2025-01-31T00:00:00+00:00</updated>
+    <dc:date>2025-01-31T00:00:00+00:00</dc:date>
+  </entry>
   <entry>
     <id>urn:tag:a60a923f9d9dcfb116f6792c5caffcdf</id>
     <link href="https://elver.me/uses/"/>
@@ -100,5 +112,5 @@
     <updated>2022-03-06T00:00:00+00:00</updated>
     <dc:date>2022-03-06T00:00:00+00:00</dc:date>
   </entry>
-  <dc:date>2025-01-12T16:23:42+00:00</dc:date>
+  <dc:date>2025-01-31T21:30:47+00:00</dc:date>
 </feed>

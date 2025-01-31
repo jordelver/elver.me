@@ -1,5 +1,10 @@
 # Changelog
 
+# 0.9.0 / 2025-01-31
+
+- Upgraded to MacBook Pro M4 14"
+- Upgrade Magic TrackPad to Black colour version
+
 # 0.8.0 / 2025-01-12
 
 - Add Apple Watch Ultra 2. Merry Christmas to me.
