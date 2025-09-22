@@ -1,6 +1,6 @@
 # uses
 
-\*_Last updated: 12th January 2025_\*
+\*_Last updated: 22nd September 2025_\*
 [[changelog rss](https://elver.me/uses/changelog.rss)]
 
 I really enjoy reading about other people's setups. I read [uses this] for years
@@ -42,9 +42,9 @@ Here is mine.
 - _HUB/DOCK_ -- Everything is hooked together using a [OWC Thunderbolt Dock]
   (OWCTB4DOCK). Expensive, but works well and is reliable.
 
-- _HEADPHONES_ -- A pair of [Apple AirPod Pros] (USB-C version) which I bought
-  for their noise cancelling abilities, but they have taken over completely
-  because they just _so_ convenient despite their software quirks.
+- _HEADPHONES_ -- A pair of [Apple AirPods Pro 3s] (USB-C version) which I
+  bought for their noise cancelling abilities, but they have taken over
+  completely because they just _so_ convenient despite their software quirks.
 
   I also have a pair [Shure SE425] IEMs with [SnugsPro] custom ear moulds. I've
   been a big fan of Shure headphones for years having owned 5 or 6 different
@@ -85,8 +85,10 @@ Here is mine.
 ## Desk setup
 
 - [IKEA Bekant] Standing desk - It’s done me well for the price, but starting to
-  sound a bit creaky. I would like to replace it with something that has
-  settings so I can start/stop it at the correct height quickly.
+  sound a bit creaky. I would like to replace it with something a bit more
+  sturdy.
+
+  I've modded this desk with [MegaDesk] to enable positional settings.
 
 - [Steelcase Gesture Chair] -- a brand new purchase which was really needed.
   Replaced my previous Steelcase Leap V1, which I bought second-hand.
@@ -182,10 +184,11 @@ Here is mine.
 [Ubuntu]: https://ubuntu.com
 [ZFS]: https://en.wikipedia.org/wiki/ZFS
 [Plex]: https://www.plex.tv
-[Apple AirPod Pros]: https://www.apple.com/uk/airpods-pro/specs/
+[Apple AirPods Pro 3s]: https://www.apple.com/uk/airpods-pro/specs/
 [Steelcase Gesture Chair]: https://www.steelcase.com/products/office-chairs/gesture/
 [GMK Dracula]: https://geekhack.org/index.php?topic=115268.0
 [Porkbun]: https://porkbun.com/
 [UniFi controller software]: https://ui.com/download
 [Lenovo ThinkCentre M900 Desktop PC]: https://www.lenovo.com/gb/en/p/desktops/thinkcentre/m-series-tiny/m900-tiny/11tc1mtm900
 [VESA adaptor]: https://www.lenovo.com/gb/en/p/accessories-and-software/tiny-accessories/tiny-brackets/4xf0n03161
+[MegaDesk]: https://www.tindie.com/products/gcormier/megadesk/

@@ -1,5 +1,10 @@
 # Changelog
 
+# 0.10.0 / 2025-09-22
+
+- Added MegaDesk desk mod
+- Upgraded to Apple AirPods Pro 3s
+
 # 0.9.0 / 2025-01-31
 
 - Upgraded to MacBook Pro M4 14"
