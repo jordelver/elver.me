@@ -16,18 +16,21 @@
       font-family: monospace;
       font-size: 16px;
       line-height: 1.4em;
+      overflow-wrap: break-word;
       max-width: 80ch;
       margin: 0 auto;
     }
 
     article {
       margin: 0 1em;
+      margin-bottom: 5em;
     }
 
     h1, h2 {
       font-weight: normal;
       font-size: 1em;
       text-transform: uppercase;
+      padding-top: 1em;
     }
 
     ul {
@@ -36,6 +39,30 @@
 
     li {
       margin-bottom: 1em;
+    }
+
+    blockquote p:first-child::before {
+      content: open-quote;
+    }
+
+    blockquote p:last-child::after {
+      content: close-quote;
+    }
+
+    img {
+      width: 100%;
+      border-radius: 3px;
+    }
+
+    .photos {
+      display: flex;
+      gap: 1rem;
+      flex-wrap: wrap;
+    }
+
+    .photos p {
+      flex: 1;
+      margin: 0;
     }
     </style>
   </head>

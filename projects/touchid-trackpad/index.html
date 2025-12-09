@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>elver.me - Touch ID Trackpad build</title>
+
+    <link rel="alternate" type="application/rss+xml" href="https://elver.me/uses/changelog.rss" title="elver.me /uses changelog" />
+
+    <script defer data-domain="elver.me" src="https://plausible.io/js/plausible.js"></script>
+
+    <style>
+    body {
+      font-family: monospace;
+      font-size: 16px;
+      line-height: 1.4em;
+      overflow-wrap: break-word;
+      max-width: 80ch;
+      margin: 0 auto;
+    }
+
+    article {
+      margin: 0 1em;
+      margin-bottom: 5em;
+    }
+
+    h1, h2 {
+      font-weight: normal;
+      font-size: 1em;
+      text-transform: uppercase;
+      padding-top: 1em;
+    }
+
+    ul {
+      line-height: 1.4em;
+    }
+
+    li {
+      margin-bottom: 1em;
+    }
+
+    blockquote p:first-child::before {
+      content: open-quote;
+    }
+
+    blockquote p:last-child::after {
+      content: close-quote;
+    }
+
+    img {
+      width: 100%;
+      border-radius: 3px;
+    }
+
+    .photos {
+      display: flex;
+      gap: 1rem;
+      flex-wrap: wrap;
+    }
+
+    .photos p {
+      flex: 1;
+      margin: 0;
+    }
+    </style>
+  </head>
+  <body>
+    <article>
+      <h1 id="touch-id-trackpad-build">Touch ID Trackpad build</h1>
+<p>*<em>Last updated: 13th December 2025</em>*</p>
+<hr>
+<p>I built this <a href="https://www.thingiverse.com/thing:6955798">Hidden Touch ID for Apple Magic Trackpad</a>.</p>
+<p>From the project page:</p>
+<blockquote>
+<p>Touch ID is super convenient when using macOS, but it is restricted to Apple
+keyboards and those are not really something I enjoy or want to keep on my
+desk. SnazzyLabs' standalone Touch ID module inspired me to build something
+similar, yet I wanted to avoid having an additional box on my desk. So I set
+out to seamlessly attach the Touch ID button to something that&rsquo;s always
+sitting on my desk: Apple&rsquo;s Magic Trackpad.</p>
+</blockquote>
+<p>The idea is to transplant the <a href="https://en.wikipedia.org/wiki/Touch_ID">Touch ID</a> button from an <a href="https://en.wikipedia.org/wiki/Magic_Keyboard_(Mac)#Third_generation">Apple Magic Keyboard</a>
+into a 3D-printed case which augments an <a href="https://en.wikipedia.org/wiki/Magic_Trackpad">Apple Magic Trackpad</a>. This gives
+easier access to a Touch ID button. In my case, my main computer is a Macbook
+Pro which sits on a monitor arm off the desk which makes accessing the Touch ID
+on the Macbook annoying. The idea of this is to bring it within reach.</p>
+<p>These are the steps I followed to complete the project.</p>
+<h2 id="prerequisites">Prerequisites</h2>
+<p>Before I started I needed a few things.</p>
+<ul>
+<li>
+<p>Donor keyboard, I used Apple Magic Keyboard with Touch ID USB-C version (model
+A3118) acquired from eBay. It was Swedish language, which made it slightly
+cheaper on the UK eBay.</p>
+<p>(In fact, it ended up being free due to eBay/Evri incompetence &ndash; sweet.)</p>
+</li>
+<li>
+<p>A <a href="https://en.wikipedia.org/wiki/Torx#Sizing:~:text=0.07%E2%80%930.09-,T3,-0.047">T-3 screw driver</a> bit for the screws.</p>
+</li>
+<li>
+<p>Various <a href="https://en.wikipedia.org/wiki/Spudger">spudgers</a> and prying tools for keyboard disassembly.</p>
+</li>
+<li>
+<p>A 3D printed case made of various pieces &ndash; see below.</p>
+</li>
+<li>
+<p>And, of course, an Apple Trackpad. Mine was a version 3.</p>
+</li>
+</ul>
+<h2 id="3d-printing-the-case">3D printing the case</h2>
+<p>My original plan was to get this printed by a friend or use a service like
+<a href="https://www.pcbway.com/rapid-prototyping/manufacture/?type=2">PCBWay</a>, but I had acquired a 3D printer by the time I needed it, so I ended
+up printing it myself.</p>
+<p>I printed the case on my <a href="https://bambulab.com/en/a1">Bambu A1</a> using the <a href="https://uk.store.bambulab.com/products/pla-basic-filament?id=40674109751356">Bambu Basic PLA in Gray (10103)</a>.
+This was one of my first ever 3D prints, so I don&rsquo;t know how well it will last,
+but it looks pretty good.</p>
+<p>These are the STL files I used for the print. See the <a href="https://www.thingiverse.com/thing:6955798/files">full list on the project
+page</a>.</p>
+<ul>
+<li>Trackpad3_Touch_ID_body_USB-C_v2.stl</li>
+<li>Trackpad3_Touch_ID_lid_v2.stl</li>
+<li>Trackpad_Touch_ID_clickplate_v2.stl</li>
+<li>Trackpad_Touch_ID_clickplate_simple_v2.stl</li>
+<li>Trackpad_Touch_ID_keycap_v2.stl</li>
+<li>Trackpad_Touch_ID_wedge_v2.stl</li>
+</ul>
+<p>The project author supplies two different click plates (this is where the Touch
+ID button will attach later) &ndash; one has a slot for the gasket cylinder from the
+keyboard which apparently makes the button clickier. I printed both because I
+wasn&rsquo;t sure which one I was going to go with and they are small pieces, so I was
+willing to spend the filament to try both.</p>
+<p>After printing I ended up with these parts.</p>
+<div class="photos">
+<p><a href="images/3d-prints.jpeg"><img src="images/all-the-3d-printed-parts.webp" alt="3D printed parts. Two click plates, keycap cover, USB-C wedge, main case, and lid are shown."></a></p>
+</div>
+<h2 id="donor-keyboard-disassembly">Donor keyboard disassembly</h2>
+<p>Before putting everything together I had to disassemble the donor keyboard to
+harvest all the bits and pieces. I don&rsquo;t have photos of the keyboard disassembly
+unfortunately because I forgot to take them. Let&rsquo;s just say that that keyboard
+is no more. It has ceased to be. I would thank it for it&rsquo;s service, but I never
+used it.</p>
+<p>Here is a <a href="https://gist.github.com/KhaosT/1406a6b6bea38f59e059c2afcb39d545">disassembly guide</a>, which I failed to follow, but that you might find
+useful.</p>
+<p>Here are all the pieces I ended up with.</p>
+<div class="photos">
+<p><a href="images/all-the-keyboard-parts.webp"><img src="images/all-the-keyboard-parts.webp" alt="Salvaged parts from disassembly. Touch ID sensor with flex cable, button plate, battery, rubber feet, PCB, and screws are shown."></a></p>
+</div>
+<p>I wasn&rsquo;t sure which screws I&rsquo;d need, but there were far more than are required
+for this build, so I just kept them all just in case.</p>
+<h2 id="the-build">The build</h2>
+<p>The steps I follow here are more or less the same as the &ldquo;official&rdquo;
+instructions, but show exactly what I did.</p>
+<p>First things, first. I attached the feet to the main case. The feet have small
+tabs that fit into slots on the base so lining them up is straightforward
+enough, if not a bit fiddly. I used a dab of super glue too.</p>
+<div class="photos">
+<p><a href="images/3d-printed-case-and-feet.webp"><img src="images/3d-printed-case-and-feet.webp" alt="Case without feet attached and 4 rubber feet from the donor keyboard"></a></p>
+<p><a href="images/3d-printed-case-with-feet-fitted.webp"><img src="images/3d-printed-case-with-feet-fitted.webp" alt="Case with rubber feet slotted in"></a></p>
+</div>
+<p>Next I put the keyboard PCB into the case and screwed it down using some of the
+larger screws. The screws are self-tapping as the original instructions said,
+but were slightly tricky to get going. A bit of firm pressure got them in place.</p>
+<div class="photos">
+<p><a href="images/pcb-and-case-ready-to-be-installed.webp"><img src="images/pcb-and-case-ready-to-be-installed.webp" alt="3D printed case, PCB and two screens from the donor keyboard"></a></p>
+<p><a href="images/pcb-installed.webp"><img src="images/pcb-installed.webp" alt="PCB installed in the case"></a></p>
+<p><a href="images/pcb-installed-zoomed.webp"><img src="images/pcb-installed-zoomed.webp" alt="Zoomed in view of the PCB with screws installed"></a></p>
+</div>
+<p>As I said before, I wasn&rsquo;t sure which clickplate to use. I opted for the
+non-simple version in the end (Trackpad_Touch_ID_clickplate_v2.stl) and had to
+super glue the gasket cylinder into the small cut-out.</p>
+<div class="photos">
+<p><a href="images/clickplate-and-gasket-cylinder.webp"><img src="images/clickplate-and-gasket-cylinder.webp" alt="Clickplate and gasket cylinder"></a></p>
+<p><a href="images/clickplate-with-gasket-cylinder-mounted.webp"><img src="images/clickplate-with-gasket-cylinder-mounted.webp" alt="Gasket cylinder glued into clickplate"></a></p>
+</div>
+<p>Then I moved onto the Touch ID sensor/button itself. The button needed to be
+mounted into the mounting plate. The mounting plate then pushes into the main
+case. The button orientation was made clear by the rounded corners on both the
+button and case part.</p>
+<div class="photos">
+<p><a href="images/touch-id-sensor-parts-and-mounting-plate.webp"><img src="images/touch-id-sensor-parts-and-mounting-plate.webp" alt="Touch ID sensor mounting plate and sensor ready to be installed"></a></p>
+<p><a href="images/touch-id-sensor-mounted.webp"><img src="images/touch-id-sensor-mounted.webp" alt="Touch ID sensor mounted into mounting plate"></a></p>
+</div>
+<p>Now I could put the whole assembly in place. The flex cable went through the
+slot by button and was then thread up along the top next to the PCB. The cable
+seemed resilient enough, but I was careful to not bend it too much. I then
+connected it to the PCB. Finally, I clicked the mounting plate into the button
+slot.</p>
+<div class="photos">
+<p><a href="images/mounting-plate-installed.webp"><img src="images/mounting-plate-installed.webp" alt="Touch ID button slotted into case with flex cable routed inside"></a></p>
+<p><a href="images/flex-cable-routed.webp"><img src="images/flex-cable-routed.webp" alt="Touch ID sensor flex cable routed neatly inside case"></a></p>
+<p><a href="images/flex-cable-routed-zoomed.webp"><img src="images/flex-cable-routed-zoomed.webp" alt="Zoomed in view of the Touch ID sensor flex cable routed"></a></p>
+</div>
+<p>The USB-C connector was still flapping about at this point, but inserting the
+&ldquo;wedge&rdquo; (<code>Trackpad_Touch_ID_wedge_v2.stl</code>) easily secured it and stopped it
+moving. I was surprised at how well this worked because I couldn&rsquo;t work out the
+orientation at first. It pushes in from above.</p>
+<div class="photos">
+<p><a href="images/usb-wedge-installed.webp"><img src="images/usb-wedge-installed.webp" alt="USB-C wedge installed"></a></p>
+</div>
+<p>This was probably the trickiest part of the whole process.</p>
+<p>Sliding the battery was easy, but I couldn&rsquo;t work out how to connect the battery
+to the PCB and I hadn&rsquo;t been observant enough during the keyboard disassembly to
+recall how it fitted.</p>
+<p>Turns out that the battery flex cable pushed straight down onto the PCB
+connector. It made a positive click.</p>
+<div class="photos">
+<p><a href="images/battery-and-case-ready-to-be-installed.webp"><img src="images/battery-and-case-ready-to-be-installed.webp" alt="Case with battery ready to be installed"></a></p>
+<p><a href="images/battery-installed-in-case.webp"><img src="images/battery-installed-in-case.webp" alt="Battery installed in the case"></a></p>
+</div>
+<p>Now I just had to close it all up. I slide the lid on over the battery and
+screwed it in. Again the screws are bit fiddly. Half the battle was getting the
+screws to stay on the screwdriver whilst I put them in.</p>
+<div class="photos">
+<p><a href="images/completed-with-case-screwed-shut.webp"><img src="images/completed-with-case-screwed-shut.webp" alt="Completed TouchID Trackpad case screwed shut"></a></p>
+</div>
+<p>Slide in the Apple Trackpad. Profit!</p>
+<div class="photos">
+<p><a href="images/finished.webp"><img src="images/finished.webp" alt="Apple Trackpad slid into the finished TouchID Trackpad build"></a></p>
+</div>
+<p>Not too bad at all.</p>
+
+    </article>
+  </body>
+</html>

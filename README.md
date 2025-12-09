@@ -12,7 +12,7 @@ Markdown is built using https://github.com/kpym/gm
 
 - View locally
 
-    gm --serve uses/index.md --html uses/template.html
+    gm --serve --html template.html
 
   View at http://localhost:8080/index.md
 

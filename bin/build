@@ -1,7 +1,8 @@
 #!/bin/sh
 
 # Render markdown uses page
-gm --html uses/template.html uses/index.md
+gm --html template.html uses/index.md
+gm --html template.html projects/touchid-trackpad/index.md
 
 # Build the changelog RSS feed
 bin/changelog > uses/changelog.rss
