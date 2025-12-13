@@ -24,4 +24,4 @@ Markdown is built using https://github.com/kpym/gm
 
       bin/build
 
-- Commit `index.md` and `index.html` to the `main` branch and push to deploy.
+- Commit `*.md` and `*.html` files and push to deploy.
