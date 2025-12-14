@@ -6,7 +6,20 @@
   </author>
   <id>https://elver.me/uses/changelog.rss</id>
   <title>elver.me /uses changelog</title>
-  <updated>2025-09-22T10:00:32+01:00</updated>
+  <updated>2025-12-14T22:22:24+00:00</updated>
+  <entry>
+    <id>urn:tag:3459528cf52e01d59ab4f1398566d7b3</id>
+    <link href="https://elver.me/uses/"/>
+    <summary>&lt;ul&gt;
+  &lt;li&gt;Remove Atom DAC and Amp&lt;/li&gt;
+  &lt;li&gt;Update networking gear to reflect reality&lt;/li&gt;
+  &lt;li&gt;Add link to ZFS blog post&lt;/li&gt;
+&lt;/ul&gt;
+</summary>
+    <title>0.11.0 / 2025-12-14</title>
+    <updated>2025-12-14T00:00:00+00:00</updated>
+    <dc:date>2025-12-14T00:00:00+00:00</dc:date>
+  </entry>
   <entry>
     <id>urn:tag:46d6973e25c79cc729f3ee568de774e7</id>
     <link href="https://elver.me/uses/"/>
@@ -124,5 +137,5 @@
     <updated>2022-03-06T00:00:00+00:00</updated>
     <dc:date>2022-03-06T00:00:00+00:00</dc:date>
   </entry>
-  <dc:date>2025-09-22T10:00:32+01:00</dc:date>
+  <dc:date>2025-12-14T22:22:24+00:00</dc:date>
 </feed>

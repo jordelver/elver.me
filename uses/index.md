@@ -1,6 +1,6 @@
 # uses
 
-\*_Last updated: 22nd September 2025_\*
+\*_Last updated: 14th December 2025_\*
 [[changelog rss](https://elver.me/uses/changelog.rss)]
 
 I really enjoy reading about other people's setups. I read [uses this] for years
@@ -34,11 +34,6 @@ Here is mine.
   resolution greater than 1080p, but I don't suppose there's a massive benefit
   to that.
 
-- _AUDIO INTERFACE_ -- I have a [Atom DAC] which plugs in via USB and a [Atom
-  Amp] headphone amplifier. Very clean sound that took some adjustment at first.
-  I now hear things in music that I never heard before, so I guess that's good.
-  I have to power-cycle it almost every day to make it work 🤷‍♂️.
-
 - _HUB/DOCK_ -- Everything is hooked together using a [OWC Thunderbolt Dock]
   (OWCTB4DOCK). Expensive, but works well and is reliable.
 
@@ -64,23 +59,16 @@ Here is mine.
 - _TABLET_ -- [Apple iPad Pro 11-inch (4th generation)] with the 2nd generation
   [Apple Pencil]. Mainly for watching TV in bed.
 
-- _NETWORKING_ -- I went all in on Ubiquiti a few years ago. The controller
-  software is really nice, and it has been solid for me. A UniFi [USG] (pdf)
-  brings Internet in to the property, which is distributed via [US-8-60W]
-  switch, and [UAP-AC-PRO] wifi access point.
+- _NETWORKING_ -- At the moment networking gear is limited to the ISP supplied
+  modem/router. I must do something about this.
 
 - _PERSONAL SERVER / NAS_ -- A custom built PC running [Ubuntu]. It's a Intel(R)
   Core(TM) i3-8100 CPU @ 3.60GHz with 48TB of storage comprised of 6 Western
   Digital 18TB Red disks in a 3-mirror layout managed by [ZFS]. I cannot
-  recommend ZFS enough -- I've recovered and replaced all disks and it was very
+  recommend ZFS enough -- I've [recovered and replaced all disks] and it was very
   straightforward.
 
   It runs [Plex], and a few other services. 
-
-- _NETWORK APPLIANCE_ -- For running the [UniFi controller software]. A
-  super-slim [Lenovo ThinkCentre M900 Desktop PC] with Intel(R) Core(TM)
-  i5-6500T CPU running @ 2.5GHz. 8GB RAM and 256GB SSD. Mounted inside a
-  cupboard using a [VESA adaptor].
 
 ## Desk setup
 
@@ -192,3 +180,4 @@ Here is mine.
 [Lenovo ThinkCentre M900 Desktop PC]: https://www.lenovo.com/gb/en/p/desktops/thinkcentre/m-series-tiny/m900-tiny/11tc1mtm900
 [VESA adaptor]: https://www.lenovo.com/gb/en/p/accessories-and-software/tiny-accessories/tiny-brackets/4xf0n03161
 [MegaDesk]: https://www.tindie.com/products/gcormier/megadesk/
+[recovered and replaced all disks]: https://jordanelver.co.uk/blog/2018/11/26/how-to-replace-a-failed-disk-in-a-zfs-mirror/

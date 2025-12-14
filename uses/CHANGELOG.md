@@ -1,5 +1,11 @@
 # Changelog
 
+# 0.11.0 / 2025-12-14
+
+- Remove Atom DAC and Amp
+- Update networking gear to reflect reality
+- Add link to ZFS blog post
+
 # 0.10.0 / 2025-09-22
 
 - Added MegaDesk desk mod
